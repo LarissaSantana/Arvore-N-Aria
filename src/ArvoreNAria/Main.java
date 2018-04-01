@@ -19,6 +19,7 @@ public class Main {
 		arvore.imprimir(raiz);
 		System.out.println();
 		arvore.obterDirecao("Cidade G", Lado.Esquerdo, cidadeF);
+		//teste
 
 	}
 
